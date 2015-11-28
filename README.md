@@ -1,5 +1,5 @@
-react-firebase-tutorial
-=======================
+react-firebase
+==============
 
 Playing w/ React + Firebase.
 
